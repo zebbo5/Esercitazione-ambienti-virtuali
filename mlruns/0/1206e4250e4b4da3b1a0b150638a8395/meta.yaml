@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Esercitazione-ambienti-virtuali/mlruns/0/1206e4250e4b4da3b1a0b150638a8395/artifacts
+end_time: 1742145837079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1206e4250e4b4da3b1a0b150638a8395
+run_name: thoughtful-cod-729
+run_uuid: 1206e4250e4b4da3b1a0b150638a8395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742145834051
+status: 3
+tags: []
+user_id: codespace
